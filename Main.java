@@ -4,8 +4,6 @@ class Main {
      Scanner scan = new Scanner(System.in);
      System.out.println("wybierz rozmiar ");
     int a= scan.nextInt();
-     //System.out.println("wybierz z czego ma byc zrobiona choinka");
-    //int b= scan.nextInt();
     char c= '*';
     for (int i = 1; i<=a; i++)
         {
